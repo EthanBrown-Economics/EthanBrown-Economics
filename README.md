@@ -7,10 +7,10 @@ I'm Ethan Brown, an MA Economics student.
 I'm interested in applied microeconomics and data analysis — I enjoy digging into data to understand how markets and people actually behave, and building the tools to do that well.
 
 My main areas of interest are in the intersection of
-- **Applied Microeconomics**;
-- **Data Analysis**;
-- **Empirical Methods**;
-- **Economic Research**.
+- **Applied Microeconomics**
+- **Data Analysis**
+- **Empirical Methods**
+- **Economic Research**
 
 In my GitHub, you will find:
 - 💻  Personal and side projects I've built on my own;
