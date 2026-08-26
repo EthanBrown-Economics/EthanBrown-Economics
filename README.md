@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm Ethan Brown, an MA Economics student.
+I'm Ethan Brown, an MA Economics student at the University of Tennessee.
 
 I'm interested in applied microeconomics and data analysis — I enjoy digging into data to understand how markets and people actually behave, and building the tools to do that well.
 
