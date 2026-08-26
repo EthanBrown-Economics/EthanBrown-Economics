@@ -9,13 +9,12 @@ I'm interested in applied microeconomics and data analysis — I enjoy digging i
 My main areas of interest are in the intersection of
 - **Applied Microeconomics**
 - **Data Analysis**
-- **Empirical Methods**
-- **Economic Research**
+- **Environmental Economics**
+- **Urban Economics**
+- **Policy Analysis**
 
 In my GitHub, you will find:
 - 💻  Personal and side projects I've built on my own;
-- 📚  Coursework and class projects from my MA program;
-- 📝  Notes and write-ups from things I'm learning.
 
 If you have any questions, feel free to reach out:
 
