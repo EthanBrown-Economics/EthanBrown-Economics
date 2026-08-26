@@ -14,7 +14,7 @@ My main areas of interest are in the intersection of
 - **Policy Analysis**
 
 In my GitHub, you will find:
-- 💻  Personal and side projects I've built on my own;
+- 💻  Personal and side projects I've built on my own
 
 If you have any questions, feel free to reach out:
 
