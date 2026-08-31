@@ -19,4 +19,4 @@ In my GitHub, you will find:
 If you have any questions, feel free to reach out:
 
 - 📧 Email: ebrown0715@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+- 💼 LinkedIn: [(https://www.linkedin.com/in/ethanbrown04/)]
