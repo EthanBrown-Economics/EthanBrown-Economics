@@ -19,5 +19,5 @@ In my GitHub, you will find:
 If you have any questions, feel free to reach out:
 
 - 📧 Email: ebrown0715@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ethanbrown04/
+- 💼 LinkedIn: https://www.linkedin.com/in/ethanbrownecon/
 - 👔 Website: https://ethanbrown-economics.github.io/ethan-portfolio/
